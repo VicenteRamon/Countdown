@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.shadows img {
+    width: 100%;
+}
+
+.content {
+    display: flex;
+}
